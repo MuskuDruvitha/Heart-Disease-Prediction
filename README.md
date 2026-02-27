@@ -9,8 +9,8 @@ Machine Learning classification algorithms are used to train models and compare 
 
 ## Models Used
 
-*Logistic Regression
-*Support Vector Machine (SVM)
+* Logistic Regression
+* Support Vector Machine (SVM)
 
 Both models were trained on the heart disease dataset and evaluated using accuracy score.
 
